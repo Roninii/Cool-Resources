@@ -48,3 +48,5 @@ List of links to awesome resources, collected over time.
 
 ## Other resource lists
 [Jonas' Resource](http://codingheroes.io/resources/)
+
+[Zero To Mastery Resources](https://zerotomastery.io/resources)
