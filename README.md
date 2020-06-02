@@ -6,6 +6,9 @@ List of links to awesome resources, collected over time.
 ## Accessibility
 [Accessible Colors](https://accessible-colors.com/)
 
+## CSS
+[Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
+
 ## Design
 [Interfacer](https://interfacer.xyz/)
 
