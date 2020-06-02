@@ -49,6 +49,9 @@ List of links to awesome resources, collected over time.
 ## Performance
 [BundlePhobia - Cost of npm packages](https://bundlephobia.com/)
 
+## Tools
+[QuickRef - Search engine for developers](https://quickref.dev/)
+
 ## Other resource lists
 [Jonas' Resource](http://codingheroes.io/resources/)
 
