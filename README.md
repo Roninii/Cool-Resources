@@ -49,6 +49,9 @@ List of links to awesome resources, collected over time.
 ## Performance
 [BundlePhobia - Cost of npm packages](https://bundlephobia.com/)
 
+## Serverless
+[What is serverless? + cool ideas - CSS Tricks](https://serverless.css-tricks.com/about/)
+
 ## Tools
 [QuickRef - Search engine for developers](https://quickref.dev/)
 
